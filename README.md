@@ -56,4 +56,4 @@ Depois abra o endereço que aparecer no terminal (geralmente `http://localhost:5
 
 ## 👤 Autor
 
-Desenvolvido por **Nicolas** — FIAP, Engenharia de Software (1ESPA).
+Desenvolvido por **Nicolas - RM566998** — FIAP, Engenharia de Software (1ESPA).
